@@ -1,0 +1,26 @@
+.friends-screen__channel {
+    margin-top: 15px;
+    border-top: var(--main-border);
+    padding-top: 20px;
+}
+.friends-screen__channel-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    color: var(--font-gray);
+}
+#friends-display-link {
+    display: block;
+    text-align: center;
+    background-color: #fafafa;
+    padding: 15px 0px;
+    font-size: 16px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+#friends-display-link i {
+    color: var(--font-gray);
+}
+#friends-display-link span {
+    margin: 0px 10px;
+}
